@@ -23,6 +23,8 @@ Labs were measured on 2024-02-09
 * [AST](https://en.wikipedia.org/wiki/Aspartate_transaminase) (SGOT): 20 IU/L
 * [Insulin](https://en.wikipedia.org/wiki/Insulin): 8.7 uIU/mL
 
+## General experimental controls
+For this experiment I'm only interpretting measurements from the morning. This is because a person's blood sugar is going to be at a fairly stable baseline after fasting all night while sleeping. I will break the fast with these meals. Based on when I typically eat dinner, this will be after ~12 hours of fasting. I will avoid eating any subsequent food until my blood sugar has returned to baseline after the meal. Additionally, I will avoid exercise before or after the meal for several hours in order to avoid any blood sugar impacts, unless explicitly stated otherwise as part of that experiment (i.e. white rice fasting vs white rice fasting right after exercise). What's documented in the data is exactly what I'm eating for breakfast, no more or less, except for water.
 
 
 | Date | Description | Weight (grams) | Sugar (grams) | Added sugar (grams) | Notes | Picture | CGM Screenshot | Interpretation |
