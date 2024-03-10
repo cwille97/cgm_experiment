@@ -50,6 +50,15 @@ For this experiment I'm only interpretting measurements from the morning. This i
 | 2024-03-10 | Boiled white potatoes | (forgot to weigh), estimate 2 cups | 4 | 0 | 170 | Spike was relatively high although I think in hindsight I ate too much potato relative to the rice I wanted to compare to | ![potatoes](https://github.com/cwille97/cgm_experiment/assets/24487628/801711f8-a6e2-4747-9973-e7dd2013f601) | ![potatoes cgm](https://github.com/cwille97/cgm_experiment/assets/24487628/21a5cd00-85bf-48a1-bbd9-7154970e9509) | Potatoes seem to be a bit better than rice in terms of propensity to cause a spike |
 | 2024-03-10 | Whey protein powder | 32 | 1 | 0 | 117 |  This uses artificial sweetener and flavoring so I wouldn't expect any glucose spike since there's virtually no carbs | ![whey brand](https://github.com/cwille97/cgm_experiment/assets/24487628/35dc72d7-68d3-43f8-b27d-801d2dd3ed8c) ![whey shake](https://github.com/cwille97/cgm_experiment/assets/24487628/da5f057e-a842-4a33-8159-7849ad581e76) ![whey label](https://github.com/cwille97/cgm_experiment/assets/24487628/1dc57ea1-7229-4241-9a42-d35cbee2d93e) | ![whey cgm](https://github.com/cwille97/cgm_experiment/assets/24487628/2845fdea-760b-40e1-abf9-7b5b607c8e90) | No apparent effects on blood sugar
 
+## Data trends and patterns
+The trends reveal an average glucose of 120 over the duration of the experiment with a clear pattern of elevated glucose during breakfast and less so for lunch and dinner which were meals where I typically ate fewer carbs. Note the 20 of 30 days tracked, after the first sensor expired I took a break before applying the 2nd one.
+![data trends 1](https://github.com/cwille97/cgm_experiment/assets/24487628/1d6da1a1-7dc6-4e47-a6c9-417af4599d18)
+![data trends 2](https://github.com/cwille97/cgm_experiment/assets/24487628/81b356d8-2a92-4fc8-aea1-12426058c947)
+![data trends 3](https://github.com/cwille97/cgm_experiment/assets/24487628/774c3ecd-1ac8-41d3-b954-4b119297f7d1)
+
+## My takeaways
+
+Overall none of this is shocking to me, it more or less validated some of my assumptions such as fiber and fat and protein slowing the absorption of carbs. Even though about half of the breakfasts were high carb high sugar my energy levels were actually okay. This really puts into perspective how massive of a load of carbs I must eat when I do experience a large sugar crash (i.e. eating a stack of pancakes and downing a glass of orange juice would make me feel lethargic for several hours afterwards). Overall, I won't be changing my healthy eating habits much. Although when I do have a meal that's more on the unhealthy end of the spectrum, I will try to accompany it with some fiber or protein or some exercise. If I go for a long run I can enjoy some pancakes afterwards knowing that I earned it and that by depleting my glycogen stores, the blood sugar impact of the meal will be partially blunted as my body replenishes those stores from the meal.
 
 
 
