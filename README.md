@@ -47,6 +47,9 @@ For this experiment I'm only interpretting measurements from the morning. This i
 | 2024-03-08 | Coca Cola | 20 fl oz | 65 | 65 | 184 | I expected a big energy crash from drinking this on an empty stomach but actually felt totally fine | ![coke](https://github.com/cwille97/cgm_experiment/assets/24487628/0b43d653-cd5b-4c4f-a5b0-5bc2c8d7eb05) | ![coke cgm](https://github.com/cwille97/cgm_experiment/assets/24487628/fab57a8b-e246-4878-8f4e-aaefb1f586da) | Not much bigger of a spike than juice if you factor in about 10% more sugar (spike is about 10% bigger as well) |
 | 2024-03-08 | Four apples | 440 (total) | 44 | 0 | 142 | This was very filling compared to the same amount of sugar in a bottle of coke or juice | ![apples](https://github.com/cwille97/cgm_experiment/assets/24487628/2707e7a8-b74a-4e16-ad7e-5560bb697738) | ![apples cgm](https://github.com/cwille97/cgm_experiment/assets/24487628/cbcb436a-250f-43ab-9b1b-babd73c59ded) | Spike seems to be better than juice but it's clearly still a big load of carbs |
 | 2024-03-09 | 2% milk | 480 mL | 24 | 0 | 148 | No energy crash here | ![milk label](https://github.com/cwille97/cgm_experiment/assets/24487628/20e11157-2ab4-4bcc-918e-dc23c51d4399) | ![milk cgm](https://github.com/cwille97/cgm_experiment/assets/24487628/1c4ed972-8dad-4470-a6f6-171574d034cd) | It seems like lactose absorbs more slowly than glucose or sucrose |
+| 2024-03-10 | Boiled white potatoes | (forgot to weigh), estimate 2 cups | 4 | 0 | 170 | Spike was relatively high although I think in hindsight I ate too much potato relative to the rice I wanted to compare to | ![potatoes](https://github.com/cwille97/cgm_experiment/assets/24487628/801711f8-a6e2-4747-9973-e7dd2013f601) | ![potatoes cgm](https://github.com/cwille97/cgm_experiment/assets/24487628/21a5cd00-85bf-48a1-bbd9-7154970e9509) | Potatoes seem to be a bit better than rice in terms of propensity to cause a spike |
+
+
 
 
 
